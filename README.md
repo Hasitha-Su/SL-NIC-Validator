@@ -8,4 +8,4 @@ eg: https://api.mrberry.tech/v1/nic/200023508734
 eg: https://api.mrberry.tech/v1/nic/200567509021
 We will keep improve our public api as much as we can. Thank you
 
-Copied from : Zarook Rikaz (https://www.facebook.com/MZRikazLK/)
+Credit of API goes to Zarook Rikaz (https://www.facebook.com/MZRikazLK/)
